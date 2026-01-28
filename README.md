@@ -1,6 +1,6 @@
 # PandaModTools
 
-PandaModTools is a local running client (based on Python 3 and Qt 6) to assist moderators of different services ([twitch](https://twitch.tv/), [Discord](https://discord.com/), ...) with all kinds of helpful automation tools.
+PandaModTools is a local running client to assist moderators of different services ([twitch](https://twitch.tv/), [Discord](https://discord.com/), ...) with all kinds of helpful automation tools.
 
 ## table of contents
 
@@ -21,7 +21,7 @@ PandaModTools is a local running client (based on Python 3 and Qt 6) to assist m
 - blocked words (export/update)
 - banned users (export/update)
 - follower listing
-- pattern-/date-based follow-bot detection
+- pattern-/date-based follow-bot detection (maybe with AI)
 - user-report (prepared to share on DC) as image/markdown
 - syncing of:
   - channel settings
@@ -30,6 +30,10 @@ PandaModTools is a local running client (based on Python 3 and Qt 6) to assist m
 - detection if moderated channels are online:
   - sending a chat-message before any operation
   - sending a leave chat-message on exit
+- clip creation
+  - local save, with online optional
+- live chat
+- local bot (maybe AI) for moderation assistance
 
 ### Discord
 
